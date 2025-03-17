@@ -1,0 +1,24 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "swiggy",
+  "homepage": "https://github.com/poojakulkarni189/react-learning#readme",
+  "bugs": {
+    "url": "https://github.com/poojakulkarni189/react-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poojakulkarni189/react-learning.git"
+  },
+  "license": "ISC",
+  "author": "[ <Kulkarni Sai Pooja> ]",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
