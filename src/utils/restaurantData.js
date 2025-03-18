@@ -1,7 +1,7 @@
 const restaurants = [
     {
         name: "Meghana's Kitchen",
-        rating: "4.3 Stars",
+        rating: "4.3",
         cuisine: "Arabic, Jain",
         price: "400 For Two",
         deliveryTime: "38 minutes",
@@ -9,7 +9,7 @@ const restaurants = [
     },
     {
         name: "Spice Delight",
-        rating: "4.5 Stars",
+        rating: "4.5",
         cuisine: "Indian, Chinese",
         price: "350 For Two",
         deliveryTime: "30 minutes",
@@ -17,7 +17,7 @@ const restaurants = [
     },
     {
         name: "Urban Tandoor",
-        rating: "4.2 Stars",
+        rating: "4.2",
         cuisine: "North Indian, Mughlai",
         price: "450 For Two",
         deliveryTime: "40 minutes",
@@ -25,7 +25,7 @@ const restaurants = [
     },
     {
         name: "Tandoori Flames",
-        rating: "4.0 Stars",
+        rating: "4.0",
         cuisine: "BBQ, Indian",
         price: "500 For Two",
         deliveryTime: "42 minutes",
@@ -33,7 +33,7 @@ const restaurants = [
     },
     {
         name: "Saffron Bites",
-        rating: "4.6 Stars",
+        rating: "4.6",
         cuisine: "Continental, Italian",
         price: "600 For Two",
         deliveryTime: "35 minutes",
